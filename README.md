@@ -26,8 +26,8 @@
 ---
 
 ## 🌐 Language Toggle
-Gunakan: **[ID](#id-bahasa-indonesia) | [EN](#en-english-version)**  
-(Scroll saja — dua versi tersedia.)
+Gunakan / Use: **[ID](#id-bahasa-indonesia) | [EN](#en-english-version) | [JW](#jw-basa-jawa) | [JP](#jp-日本語)**  
+(Scroll saja — empat versi tersedia.)
 
 ---
 
@@ -138,11 +138,13 @@ console.log(me.motto());
 ## 🎵 Now Coding With
 
 ```text
-🎶  Lofi Stream: "Rainy Synth Focus"
-Artist: Mixed Chill Beats
-Mode: Loop ∞
-Volume: Optimal Flow
-Next: Anime OST Mix 🎌
+🎶  Focus Session Playlist
+1. Persona 3 Reload - "Color Your Night"
+2. Persona 5 - "Last Surprise"
+Mode: Alternating (Loop ∞)
+Mood: Energetic Tactical Coding
+Buffs: +20% Flow, +15% Critical Fix Rate
+Next Addition (planned): Persona 4 - "Reach Out to the Truth"
 ```
 
 ---
@@ -202,11 +204,19 @@ Halo! Saya developer yang hobi eksplor, eksperimen, refactor, dan (ya) copy-past
 
 Hi! I'm a pragmatic dev who loves exploring stacks, iterating fast, and refactoring after delivering value. Passionate about scalable architecture, DX, and efficient shipping.
 
+## JW (Basa Jawa)
+
+Halo! Aku developer sing seneng eksplorasi, eksperimen, refactor, lan (ya) copy-paste strategis. Tujuanku: gawe solusi cepet, ngerti aluré, banjur dirapekké. Minatku: arsitektur sing gampang diskalaké, pengalaman developer (developer experience), lan cara nge-ship sing resik lan efisien.
+
+## JP (日本語)
+
+こんにちは！価値をまず素早く届けてからリファクタする、現実志向のエンジニアです。技術スタックを探求し、素早く反復し、スケーラブルなアーキテクチャと開発者体験 (DX)、効率的でクリーンなデリバリーに情熱を持っています。
+
 ---
 
 <div align="center">
   
-### Terima Kasih Sudah Singgah!  
+### Terima Kasih Sudah Singgah! | Thanks for visiting! | Matur nuwun wis mampir! | 訪問ありがとうございます！  
 Typing more ideas... come back soon 👋
 
 </div>
@@ -216,4 +226,5 @@ Typing more ideas... come back soon 👋
 2. Bisa tambahkan bagian "Pinned Projects" manual.
 3. Bisa tambahkan "GitHub Trophies": https://github-profile-trophy.vercel.app/
 4. Hindari terlalu banyak external images agar load cepat.
+5. Tambahkan versi bahasa lain bila diperlukan.
 -->
