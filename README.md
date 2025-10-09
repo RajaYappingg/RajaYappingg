@@ -17,7 +17,7 @@
 <a href="mailto:jackv3414@gmail.com">
   <img alt="Email me" src="https://img.shields.io/badge/Email-Contact-ff4d4f?logo=gmail&logoColor=fff&style=for-the-badge">
 </a>
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=RajaYappingg&style=for-the-badge&color=22c55e" />
+
 
 <br /><br />
 
@@ -55,6 +55,18 @@ Gunakan / Use: [ID](#id-bahasa-indonesia) • [EN](#en-english-version) • [JW]
 
 ## 🎯 Focus & Interests
 
+<!-- AnimatedTitle: black/white pulsing text -->
+<div align="center">
+  <svg width="100%" height="56" viewBox="0 0 800 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Focus & Interests animated title">
+    <rect x="0" y="0" width="800" height="56" fill="transparent"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="28" font-weight="700" fill="#000" stroke="#000" stroke-width="1">
+      Focus & Interests
+      <animate attributeName="fill" values="#000;#fff;#000" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</div>
+
 <div align="center">
   
 | 🔭 Fokus Sekarang | 🧪 Sedang Dipelajari | 🤝 Terbuka Untuk |
@@ -68,6 +80,18 @@ Gunakan / Use: [ID](#id-bahasa-indonesia) • [EN](#en-english-version) • [JW]
 ---
 
 ## ⚡ Quick Glance
+
+<!-- AnimatedTitle: black/white pulsing text -->
+<div align="center">
+  <svg width="100%" height="56" viewBox="0 0 800 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Quick Glance animated title">
+    <rect x="0" y="0" width="800" height="56" fill="transparent"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="28" font-weight="700" fill="#000" stroke="#000" stroke-width="1">
+      Quick Glance
+      <animate attributeName="fill" values="#000;#fff;#000" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</div>
 
 ```yaml
 name: "Muhammad Izzuddin Zaki"
@@ -87,6 +111,18 @@ current_status:
 ---
 
 ## 🧰 Tech Arsenal
+
+<!-- AnimatedTitle: black/white pulsing text -->
+<div align="center">
+  <svg width="100%" height="56" viewBox="0 0 800 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech Arsenal animated title">
+    <rect x="0" y="0" width="800" height="56" fill="transparent"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="28" font-weight="700" fill="#000" stroke="#000" stroke-width="1">
+      Tech Arsenal
+      <animate attributeName="fill" values="#000;#fff;#000" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</div>
 
 <div align="center">
 
@@ -120,6 +156,18 @@ current_status:
 ---
 
 ## 📊 Stats & Activity
+
+<!-- AnimatedTitle: black/white pulsing text -->
+<div align="center">
+  <svg width="100%" height="56" viewBox="0 0 800 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stats & Activity animated title">
+    <rect x="0" y="0" width="800" height="56" fill="transparent"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="28" font-weight="700" fill="#000" stroke="#000" stroke-width="1">
+      Stats & Activity
+      <animate attributeName="fill" values="#000;#fff;#000" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</div>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=RajaYappingg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub stats with icons and percentile rank" />
@@ -160,6 +208,18 @@ console.log(me.motto());
 ---
 
 ## 🏆 Achievement Board
+
+<!-- AnimatedTitle: black/white pulsing text -->
+<div align="center">
+  <svg width="100%" height="56" viewBox="0 0 800 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Achievement Board animated title">
+    <rect x="0" y="0" width="800" height="56" fill="transparent"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="28" font-weight="700" fill="#000" stroke="#000" stroke-width="1">
+      Achievement Board
+      <animate attributeName="fill" values="#000;#fff;#000" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</div>
 
 | 🏅 Badge | Status | Keterangan |
 |---|---|---|
@@ -203,6 +263,18 @@ Next Addition (planned): Persona 4 - "Reach Out to the Truth"
 
 ## 🤝 Let's Connect
 
+<!-- AnimatedTitle: black/white pulsing text -->
+<div align="center">
+  <svg width="100%" height="56" viewBox="0 0 800 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Let's Connect animated title">
+    <rect x="0" y="0" width="800" height="56" fill="transparent"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="28" font-weight="700" fill="#000" stroke="#000" stroke-width="1">
+      Let's Connect
+      <animate attributeName="fill" values="#000;#fff;#000" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</div>
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-RajaYappingg-181717?logo=github&style=for-the-badge)](https://github.com/RajaYappingg)
@@ -213,6 +285,18 @@ Next Addition (planned): Persona 4 - "Reach Out to the Truth"
 ---
 
 ## ❤️ Support / Kolaborasi
+
+<!-- AnimatedTitle: black/white pulsing text -->
+<div align="center">
+  <svg width="100%" height="56" viewBox="0 0 800 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Support / Kolaborasi animated title">
+    <rect x="0" y="0" width="800" height="56" fill="transparent"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="28" font-weight="700" fill="#000" stroke="#000" stroke-width="1">
+      Support / Kolaborasi
+      <animate attributeName="fill" values="#000;#fff;#000" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</div>
 
 Butuh partner buat:
 - 🚀 Rapid prototyping
@@ -227,13 +311,12 @@ Butuh partner buat:
 ## 👀 Visitor Counter
 
 <div align="center">
-  <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=RajaYappingg&style=for-the-badge&color=brightgreen" alt="Profile views counter badge" />
-  <br />
-  <!-- Live refresh counter -->
-  <img src="https://camo.githubusercontent.com/53ab298af5a3346ffe0550ae7a05bb500146b383962bdfb9061a6b891cc5c38f/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f406c6f6c3f6e616d653d6c6f6c267468656d653d626f6f72752d6a61797065652670616464696e673d37266f66667365743d3026616c69676e3d63656e746572267363616c653d3126706978656c617465643d30266461726b6d6f64653d6175746f" alt="Live refresh counter (count.getloli.com)" />
-  <!-- Original (non-camo) source for reference:
-       https://count.getloli.com/@lol?name=lol&theme=booru-jaypee&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto -->
+  <!-- Moe Counter (live visitor counter) with initial value 130 -->
+  <img src="https://count.getloli.com/@ini?theme=booru-smtg&offset=130" alt="Visitor Counter - Moe Counter (@ini, booru-smtg theme, offset 130)" />
+  <!-- Keterangan:
+       - 'name' = ini (unik buat kamu)
+       - 'theme' = booru-smtg (sesuai permintaan)
+       - 'offset=130' bikin angka awal tampil 130, lalu naik seiring kunjungan berikutnya -->
 </div>
 
 ---
@@ -262,3 +345,8 @@ Halo! Aku developer sing seneng eksplorasi, eksperimen, refactor, lan (ya) copy-
 Typing more ideas... come back soon 👋
 
 </div>
+
+<!-- Notes:
+- The SVG titles above animate only the text fill between black (#000) and white (#fff) while keeping a black stroke for readability on light themes.
+- GitHub allows inline SVG; CSS <style> animations are not supported in README, so SMIL <animate> is used.
+-->
