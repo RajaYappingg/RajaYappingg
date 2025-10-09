@@ -227,7 +227,13 @@ Butuh partner buat:
 ## 👀 Visitor Counter
 
 <div align="center">
+  <!-- Profile views counter -->
   <img src="https://komarev.com/ghpvc/?username=RajaYappingg&style=for-the-badge&color=brightgreen" alt="Profile views counter badge" />
+  <br />
+  <!-- Live refresh counter -->
+  <img src="https://camo.githubusercontent.com/53ab298af5a3346ffe0550ae7a05bb500146b383962bdfb9061a6b891cc5c38f/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f406c6f6c3f6e616d653d6c6f6c267468656d653d626f6f72752d6a61797065652670616464696e673d37266f66667365743d3026616c69676e3d63656e746572267363616c653d3126706978656c617465643d30266461726b6d6f64653d6175746f" alt="Live refresh counter (count.getloli.com)" />
+  <!-- Original (non-camo) source for reference:
+       https://count.getloli.com/@lol?name=lol&theme=booru-jaypee&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto -->
 </div>
 
 ---
