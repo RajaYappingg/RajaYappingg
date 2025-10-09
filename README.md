@@ -340,6 +340,7 @@ Halo! Aku developer sing seneng eksplorasi, eksperimen, refactor, lan (ya) copy-
 ---
 
 <div align="center">
+<img src="https://media1.tenor.com/m/ulj-S_TYiWEAAAAd/blue-archive-rio.gif" width="320" alt="Cute anime loop of Tsukatsuki Rio coding on a laptop" />
 
 ### Terima Kasih Sudah Singgah! | Thanks for visiting! | Matur nuwun wis mampir! | 訪問ありがとうございます！
 Typing more ideas... come back soon 👋
