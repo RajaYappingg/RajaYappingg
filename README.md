@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Fun Banner / Title -->
-<img src="https://media.tenor.com/tsOkhdy00YQAAAAM/tsukatsuki-rio-cute-rio.gif" width="320" alt="Cute anime loop of Tsukatsuki Rio coding on a laptop" />
+<img src="https://media1.tenor.com/m/KB8sh5EHd2UAAAAd/rio-tsukatsuki.gif" width="320" alt="Cute anime loop of Tsukatsuki Rio coding on a laptop" />
 
 # 👋 Hi, I'm <b>Muhammad Izzuddin Zaki</b>
 ### 🚀 Professional Copy-Paste Master 👅 | Code Alchemist | Night Owl Dev
