@@ -20,9 +20,6 @@
 
 ---
 
-## 🌐 Language Toggle
-Gunakan / Use: [ID](#id-bahasa-indonesia) • [EN](#en-english-version) • [JW](#jw-basa-jawa) • [JP](#jp-日本語)
-
 ## ⚡ Quick Glance
 
 <!-- AnimatedTitle: black/white pulsing text -->
