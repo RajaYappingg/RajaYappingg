@@ -7,16 +7,6 @@
 # 👋 Hi, I'm <b>Muhammad Izzuddin Zaki</b>
 ### 🚀 Professional Copy-Paste Master 👅 | Code Alchemist | Night Owl Dev
 
-<!-- Social / Meta Badges -->
-<a href="https://github.com/RajaYappingg">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/RajaYappingg?label=Follow&style=for-the-badge&color=0aa6ff">
-</a>
-<a href="https://github.com/RajaYappingg">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/RajaYappingg?affiliations=OWNER&style=for-the-badge&color=ffd166">
-</a>
-<a href="mailto:jackv3414@gmail.com">
-  <img alt="Email me" src="https://img.shields.io/badge/Email-Contact-ff4d4f?logo=gmail&logoColor=fff&style=for-the-badge">
-</a>
 
 
 <br /><br />
