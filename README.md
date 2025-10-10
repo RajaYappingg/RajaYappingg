@@ -97,38 +97,6 @@ current_status:
 
 </div>
 
----
-
-## 📊 Stats & Activity
-
-<!-- AnimatedTitle: black/white pulsing text -->
-<div align="center">
-  <svg width="100%" height="56" viewBox="0 0 800 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Stats & Activity animated title">
-    <rect x="0" y="0" width="800" height="56" fill="transparent"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="28" font-weight="700" fill="#000" stroke="#000" stroke-width="1">
-      Stats & Activity
-      <animate attributeName="fill" values="#000;#fff;#000" dur="2s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RajaYappingg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub stats with icons and percentile rank" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=RajaYappingg&theme=tokyonight&hide_border=true" alt="GitHub contribution streak chart" />
-</div>
-
-<div align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaYappingg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages by repo usage" />
-</div>
-
-<!-- Optional: Snake (can be heavy for some users) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation eating contributions" />
-</div>
-
----
-
 ## 🧪 Lab Corner (Random Dev Object)
 
 ```javascript
