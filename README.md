@@ -17,54 +17,6 @@
 </a>
 
 </div>
-
----
-
-## ⚡ Quick Glance
-
-<!-- AnimatedTitle: black/white pulsing text -->
-<div align="center">
-  <svg width="100%" height="56" viewBox="0 0 800 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Quick Glance animated title">
-    <rect x="0" y="0" width="800" height="56" fill="transparent"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="28" font-weight="700" fill="#000" stroke="#000" stroke-width="1">
-      Quick Glance
-      <animate attributeName="fill" values="#000;#fff;#000" dur="2s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</div>
-
-```yaml
-name: "Muhammad Izzuddin Zaki"
-aka: "RajaYappingg"
-role: "Copy Paste Master 👅 / Web Developer"
-location: "Indonesia 🇮🇩"
-coffee_intake_today: "∞"
-favorite_stack: ["JavaScript", "Node.js", "React", "Laravel", "Vue"]
-super_power: "Mempercepat deliver dengan reuse berkualitas"
-philosophy: "If it works → optimize later."
-current_status:
-  coding: true
-  sleeping: false
-  debugging: "always"
-```
-
----
-
-## 🧰 Tech Arsenal
-
-<!-- AnimatedTitle: black/white pulsing text -->
-<div align="center">
-  <svg width="100%" height="56" viewBox="0 0 800 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech Arsenal animated title">
-    <rect x="0" y="0" width="800" height="56" fill="transparent"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="28" font-weight="700" fill="#000" stroke="#000" stroke-width="1">
-      Tech Arsenal
-      <animate attributeName="fill" values="#000;#fff;#000" dur="2s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</div>
-
 <div align="center">
 
 ### 🧠 Languages  
