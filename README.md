@@ -98,7 +98,7 @@
 2. Persona 5 - "Last Surprise"
 Mode: Alternating (Loop ∞)
 Mood: Energetic Tactical Coding
-Buffs: +20% Flow, +15% Critical Fix Rate
+Buffs: +100% Flow, +250% Critical Fix Rate
 Next Addition (planned): Persona 4 - "Reach Out to the Truth"
 ```
 
