@@ -5,11 +5,9 @@
 <img src="https://media1.tenor.com/m/KB8sh5EHd2UAAAAd/rio-tsukatsuki.gif" width="320" alt="Cute anime loop of Tsukatsuki Rio coding on a laptop" />
 
 # 👋 Hi, I'm <b>Muhammad Izzuddin Zaki</b>
-### 🚀 Professional Copy-Paste Master 👅 | Code Alchemist | Night Owl Dev
+### 🚀 Professional Copy-Paste Master 👅 | 🧪 Code Alchemist | 🌙 Night Owl Dev
 
-
-
-<br /><br />
+<br />
 
 <!-- Typing Banner -->
 <a href="https://github.com/RajaYappingg">
@@ -54,8 +52,8 @@
     <thead>
       <tr>
         <th align="center">🏅 Badge</th>
-        <th align="center">Status</th>
-        <th align="center">Keterangan</th>
+        <th align="center">📊 Status</th>
+        <th align="center">📝 Keterangan</th>
       </tr>
     </thead>
     <tbody>
@@ -72,17 +70,17 @@
       <tr>
         <td align="center">🐛 Bug Hunter</td>
         <td align="center">🔄 Ongoing</td>
-        <td align="center">Bugs: they fear refactor</td>
+        <td align="center">Bugs: they fear refactor 🔧</td>
       </tr>
       <tr>
         <td align="center">🎯 Copy-Paste Master</td>
         <td align="center">💎 LEGENDARY</td>
-        <td align="center">Adapt – Improve – Ship</td>
+        <td align="center">Adapt – Improve – Ship 🚢</td>
       </tr>
       <tr>
         <td align="center">🚀 Code Wizard</td>
         <td align="center">🔄 Loading</td>
-        <td align="center">Optimizing spells</td>
+        <td align="center">Optimizing spells ✨</td>
       </tr>
     </tbody>
   </table>
@@ -94,57 +92,53 @@
 
 ```text
 🎶  Focus Session Playlist
-1. Persona 3 Reload - "Color Your Night"
-2. Persona 5 - "Last Surprise"
-Mode: Alternating (Loop ∞)
-Mood: Energetic Tactical Coding
-Buffs: +100% Flow, +250% Critical Fix Rate
-Next Addition (planned): Persona 4 - "Reach Out to the Truth"
+1. Persona 3 Reload — "Color Your Night" 🎧
+2. Persona 5 — "Last Surprise" 🎭
+Mode: 🔁 Alternating
+Mood: ⚡ Energetic Tactical Coding
+Buffs: 🧠 +100% Flow, 🛠️ +250% Critical Fix Rate
+Next: ⏭️ Persona 4 — "Reach Out to the Truth"
 ```
 
 ---
 
 ## 😂 Dev Jokes (Refreshed)
 
-> Why reinvent the wheel when `npm install` does it for you?  
-> Why do code reviewers break hearts? Because they request changes.  
-> My code doesn’t have bugs — only random surprise features.
+> Why reinvent the wheel when `npm install` does it for you? 📦  
+> Why do code reviewers break hearts? Because they request changes. 💔📝  
+> My code doesn’t have bugs — only random surprise features. 🎁
 
 ---
 
 ## 🧠 Philosophy
 
-> "Copy-paste bukan dosa — asal paham dan bikin lebih baik."  
-> "Refactor adalah janji. Jangan lupa ditepati."  
-> "Debugging = ngobrol dengan masa lalu yang menulis kode."
-
+> "Copy-paste bukan dosa — asal paham dan bikin lebih baik." ✅  
+> "Refactor adalah janji. Jangan lupa ditepati." 🔁  
+> "Debugging = ngobrol dengan masa lalu yang menulis kode." 🕵️‍♂️
 
 ## 👀 Visitor Counter
 
 <div align="center">
   <!-- Moe Counter (live visitor counter) with initial value 130 -->
-  <img src="https://count.getloli.com/@ini?theme=booru-smtg&offset=130" alt="Visitor Counter - Moe Counter (@ini, booru-smtg theme, offset 130)" />
-  <!-- Keterangan:
-       - 'name' = ini (unik buat kamu)
-       - 'theme' = booru-smtg (sesuai permintaan)
-       - 'offset=130' bikin angka awal tampil 130, lalu naik seiring kunjungan berikutnya -->
+  <img src="https://count.getloli.com/@ini?theme=booru-smtg&offset=130" alt="👁️ Visitor Counter - Moe Counter (@ini, booru-smtg theme, offset 130)" />
+  <!-- Keterangan: 'name'=ini (unik), 'theme'=booru-smtg, 'offset=130' set angka awal -->
 </div>
 
 ---
 
-## ID (Bahasa Indonesia)
+## 🇮🇩 ID (Bahasa Indonesia)
 
 Halo! Saya developer yang hobi eksplor, eksperimen, refactor, dan (ya) copy-paste strategis. Tujuan saya: bangun solusi cepat, pahami alur, lalu rapikan. Minat: arsitektur scalable, developer experience, dan clean shipping.
 
-## EN (English Version)
+## 🇺🇸 EN (English Version)
 
 Hi! I'm a pragmatic dev who loves exploring stacks, iterating fast, and refactoring after delivering value. Passionate about scalable architecture, DX, and efficient shipping.
 
-## JW (Basa Jawa)
+## 🗣️ JW (Basa Jawa)
 
 Halo! Aku developer sing seneng eksplorasi, eksperimen, refactor, lan (ya) copy-paste strategis. Tujuanku: gawe solusi cepet, ngerti aluré, banjur dirapekké. Minatku: arsitektur sing gampang diskalaké, pengalaman developer (developer experience), lan cara nge-ship sing resik lan efisien.
 
-## JP (日本語)
+## 🇯🇵 JP (日本語)
 
 こんにちは！価値をまず素早く届けてからリファクタする、現実志向のエンジニアです。技術スタックを探求し、素早く反復し、スケーラブルなアーキテクチャと開発者体験 (DX)、効率的でクリーンなデリバリーに情熱を持っています。
 
@@ -154,7 +148,7 @@ Halo! Aku developer sing seneng eksplorasi, eksperimen, refactor, lan (ya) copy-
 <img src="https://media1.tenor.com/m/ulj-S_TYiWEAAAAd/blue-archive-rio.gif" width="320" alt="Cute anime loop of Tsukatsuki Rio coding on a laptop" />
 
 ### Terima Kasih Sudah Singgah! | Thanks for visiting! | Matur nuwun wis mampir! | 訪問ありがとうございます！
-Typing more ideas... come back soon 👋
+✍️ Typing more ideas... come back soon 👋
 
 </div>
 
