@@ -46,28 +46,6 @@
 
 </div>
 
-## 🧪 Lab Corner (Random Dev Object)
-
-```javascript
-class Developer {
-  constructor() {
-    this.name = "Muhammad Izzuddin Zaki";
-    this.alias = "RajaYappingg";
-    this.role = "Copy Paste Master 👅";
-    this.stack = ["JS", "Node", "React", "Laravel"];
-    this.mood = "🔧 Debugging while vibing 🎵";
-  }
-  code() { return "Shipping features ⚡"; }
-  motto() { return "If it runs, refine later."; }
-  coffee() { return "☕ Refill needed… again."; }
-}
-
-const me = new Developer();
-console.log(me.motto());
-```
-
----
-
 ## 🏆 Achievement Board
 
 <!-- AnimatedTitle: black/white pulsing text -->
