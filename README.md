@@ -46,27 +46,47 @@
 
 </div>
 
-## 🏆 Achievement Board
+<h2 align="center">🏆 Achievement Board</h2>
 
-<!-- AnimatedTitle: black/white pulsing text -->
 <div align="center">
-  <svg width="100%" height="56" viewBox="0 0 800 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Achievement Board animated title">
-    <rect x="0" y="0" width="800" height="56" fill="transparent"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="28" font-weight="700" fill="#000" stroke="#000" stroke-width="1">
-      Achievement Board
-      <animate attributeName="fill" values="#000;#fff;#000" dur="2s" repeatCount="indefinite"/>
-    </text>
-  </svg>
+  <!-- Centered HTML table -->
+  <table>
+    <thead>
+      <tr>
+        <th align="center">🏅 Badge</th>
+        <th align="center">Status</th>
+        <th align="center">Keterangan</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">☕ Coffee Addict</td>
+        <td align="center">✅ MAX</td>
+        <td align="center">1000+ cups powering commits</td>
+      </tr>
+      <tr>
+        <td align="center">🌙 Night Owl</td>
+        <td align="center">✅ MAX</td>
+        <td align="center">Jam produktif: 00:00–03:00</td>
+      </tr>
+      <tr>
+        <td align="center">🐛 Bug Hunter</td>
+        <td align="center">🔄 Ongoing</td>
+        <td align="center">Bugs: they fear refactor</td>
+      </tr>
+      <tr>
+        <td align="center">🎯 Copy-Paste Master</td>
+        <td align="center">💎 LEGENDARY</td>
+        <td align="center">Adapt – Improve – Ship</td>
+      </tr>
+      <tr>
+        <td align="center">🚀 Code Wizard</td>
+        <td align="center">🔄 Loading</td>
+        <td align="center">Optimizing spells</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
-| 🏅 Badge | Status | Keterangan |
-|---|---|---|
-| ☕ Coffee Addict | ✅ MAX | 1000+ cups powering commits |
-| 🌙 Night Owl | ✅ MAX | Jam produktif: 00:00–03:00 |
-| 🐛 Bug Hunter | 🔄 Ongoing | Bugs: they fear refactor |
-| 🎯 Copy-Paste Master | 💎 LEGENDARY | Adapt – Improve – Ship |
-| 🚀 Code Wizard | 🔄 Loading | Optimizing spells |
 
 ---
 
@@ -139,6 +159,5 @@ Typing more ideas... come back soon 👋
 </div>
 
 <!-- Notes:
-- The SVG titles above animate only the text fill between black (#000) and white (#fff) while keeping a black stroke for readability on light themes.
-- GitHub allows inline SVG; CSS <style> animations are not supported in README, so SMIL <animate> is used.
+- GitHub allows inline SVG; CSS <style> animations are not supported in README, so SMIL <animate> can be used if needed.
 -->
