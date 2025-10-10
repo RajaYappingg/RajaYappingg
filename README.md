@@ -232,28 +232,6 @@ Next Addition (planned): Persona 4 - "Reach Out to the Truth"
 > "Refactor adalah janji. Jangan lupa ditepati."  
 > "Debugging = ngobrol dengan masa lalu yang menulis kode."
 
----
-
-## 🤝 Let's Connect
-
-<!-- AnimatedTitle: black/white pulsing text -->
-<div align="center">
-  <svg width="100%" height="56" viewBox="0 0 800 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Let's Connect animated title">
-    <rect x="0" y="0" width="800" height="56" fill="transparent"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="28" font-weight="700" fill="#000" stroke="#000" stroke-width="1">
-      Let's Connect
-      <animate attributeName="fill" values="#000;#fff;#000" dur="2s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</div>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-RajaYappingg-181717?logo=github&style=for-the-badge)](https://github.com/RajaYappingg)
-[![Email](https://img.shields.io/badge/Email-jackv3414%40gmail.com-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:jackv3414@gmail.com)
-
-</div>
 
 ## 👀 Visitor Counter
 
