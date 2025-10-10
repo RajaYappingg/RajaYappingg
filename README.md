@@ -25,23 +25,6 @@ Gunakan / Use: [ID](#id-bahasa-indonesia) • [EN](#en-english-version) • [JW]
 
 > Tips: Tekan “g” lalu “i” di GitHub untuk ke profil, atau gunakan daftar isi.
 
----
-
-## 🧭 Quick Nav
-- [Focus & Interests](#-focus--interests)
-- [Quick Glance](#-quick-glance)
-- [Tech Arsenal](#-tech-arsenal)
-- [Stats & Activity](#-stats--activity)
-- [Lab Corner](#-lab-corner-random-dev-object)
-- [Achievements](#-achievement-board)
-- [Now Coding With](#-now-coding-with)
-- [Jokes](#-dev-jokes-refreshed)
-- [Philosophy](#-philosophy)
-- [Connect](#-lets-connect)
-- [Support / Kolaborasi](#-support--kolaborasi)
-- [Languages](#id-bahasa-indonesia)
-
----
 
 ## 🎯 Focus & Interests
 
