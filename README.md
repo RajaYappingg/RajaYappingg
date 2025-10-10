@@ -23,33 +23,6 @@
 ## 🌐 Language Toggle
 Gunakan / Use: [ID](#id-bahasa-indonesia) • [EN](#en-english-version) • [JW](#jw-basa-jawa) • [JP](#jp-日本語)
 
-
-## 🎯 Focus & Interests
-
-<!-- AnimatedTitle: black/white pulsing text -->
-<div align="center">
-  <svg width="100%" height="56" viewBox="0 0 800 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Focus & Interests animated title">
-    <rect x="0" y="0" width="800" height="56" fill="transparent"/>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="28" font-weight="700" fill="#000" stroke="#000" stroke-width="1">
-      Focus & Interests
-      <animate attributeName="fill" values="#000;#fff;#000" dur="2s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</div>
-
-<div align="center">
-  
-| 🔭 Fokus Sekarang | 🧪 Sedang Dipelajari | 🤝 Terbuka Untuk |
-|---|---|---|
-| Web Apps Modern | Scalable Architecture | Kolaborasi Open Source |
-| Clean Code & Refactor | Cloud & Docker | Pair Programming |
-| Automasi Workflow | Performance Tuning | Remote Freelance |
-
-</div>
-
----
-
 ## ⚡ Quick Glance
 
 <!-- AnimatedTitle: black/white pulsing text -->
